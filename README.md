@@ -1,5 +1,3 @@
 # kodluyoruzilkrepo
-
-##Frontend eğitimi
-
+Frontend eğitimi
 * Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo
